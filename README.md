@@ -70,14 +70,14 @@ export default App;
 | Name      | PropType | Value        | Default |
 | --------  | -------- | ------------ | ------- |
 | isLoading | Boolean  | true / false | false   |
-
+| --------- | -------- | ------------ | ------- |
 
 ## Example
 
-![](react-loader.png)
+![](https://github.com/Rajdeepc/react-fblike-loader/blob/master/react-loader.png?raw=true)
 
 
-### Donate
+## Donate
 
 If you like my work and if my product has helped you in your development please feel free to give a shoutout:
 
