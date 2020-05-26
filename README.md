@@ -1,6 +1,6 @@
 # Introduction
 
-A React HOC module which can be used to create Facebook like loading elelements before data is loaded.
+A React HOC module which can be used to create Facebook like loading elelements before data is fetched.
 
 ## Installation
 
@@ -10,13 +10,13 @@ npm i react-card-loader --save
 
 ## How to Use
 
-1. Import in your component,
+### Import in your component
 
 ```
-import ReactCardLoader from 'react-card-loader'
+import {ReactCardLoader} from 'react-card-loader'
 ```
 
-2. Use in your component like this:
+### Use in your component like this
 
 ```
  <ReactCardLoader>
@@ -24,7 +24,7 @@ import ReactCardLoader from 'react-card-loader'
  </ReactCardLoader>
 ```
 
-3. How to construct html(For All elements expect image)
+### How to construct html(For All elements except images)
 
 ```
 <div>
@@ -36,7 +36,7 @@ import ReactCardLoader from 'react-card-loader'
 
 P.S: Any elements which needs to be shown loader should have the class <strong>ph</strong>
 
-4. How to construct images
+### How to construct HTML for img
 
 ```
  <div className="image-wrapper">
@@ -44,7 +44,7 @@ P.S: Any elements which needs to be shown loader should have the class <strong>p
   </div>
 ```
 
-5. Working Example
+### Wrapping it up
 
 ```
 import React from 'react';
@@ -70,7 +70,9 @@ export default App;
 | Name      | PropType | Value        | Default |
 | --------  | -------- | ------------ | ------- |
 | isLoading | Boolean  | true / false | false   |
-| --------- | -------- | ------------ | ------- |
+
+
+<br/>
 
 ## Example
 
