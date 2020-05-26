@@ -6,9 +6,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajdeepc/react-fblike-loader.git"
+  },
+  "keywords": [
+    "fblikeloader",
+    "loader",
+    "react"
+  ],
+  "homepage": "https://github.com/Rajdeepc/react-fblike-loader/blob/master/README.md",
   "author": "Rajdeep Chandra",
   "license": "ISC",
-  "git":"https://github.com/Rajdeepc/react-fblike-loader.git",
   "dependencies": {
     "react": "^16.13.1"
   }
