@@ -5,7 +5,7 @@ A React HOC module which can be used to create Facebook like loading elelements 
 ## Installation
 
 ```
-npm i react-card-loader --save
+npm i react-fblike-loader --save
 ```
 
 ## How to Use
@@ -13,7 +13,7 @@ npm i react-card-loader --save
 ### Import in your component
 
 ```
-import {ReactCardLoader} from 'react-card-loader'
+import {ReactCardLoader} from 'react-fblike-loader'
 ```
 
 ### Use in your component like this
@@ -49,7 +49,7 @@ P.S: Any elements which needs to be shown loader should have the class <strong>p
 ```
 import React from 'react';
 import './App.css';
-import {ReactCardLoader} from 'react-card-loader'
+import {ReactCardLoader} from 'react-fblike-loader'
 
 function App() {
   return (
