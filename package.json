@@ -1,0 +1,15 @@
+{
+  "name": "react-card-loader",
+  "version": "0.0.1",
+  "description": "Facebook like Card Elements Loader with Animation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rajdeep Chandra",
+  "license": "ISC",
+  "git":"",
+  "dependencies": {
+    "react": "^16.13.1"
+  }
+}
