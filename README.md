@@ -49,7 +49,7 @@ P.S: Any elements which needs to be shown loader should have the class <strong>p
 ```
 import React from 'react';
 import './App.css';
-import ReactCardLoader from 'react-card-loader'
+import {ReactCardLoader} from 'react-card-loader'
 
 function App() {
   return (
