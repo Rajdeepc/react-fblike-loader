@@ -14,7 +14,6 @@ npm i react-card-loader --save
 
 ```
 import ReactCardLoader from 'react-card-loader'
-
 ```
 
 2. Use in your component like this:

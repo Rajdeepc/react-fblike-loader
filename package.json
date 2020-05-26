@@ -1,14 +1,14 @@
 {
   "name": "react-card-loader",
   "version": "0.0.1",
-  "description": "Facebook like Card Elements Loader with Animation",
+  "description": "Facebook like Elements Loader with Animation",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Rajdeep Chandra",
   "license": "ISC",
-  "git":"",
+  "git":"https://github.com/Rajdeepc/react-fblike-loader.git",
   "dependencies": {
     "react": "^16.13.1"
   }
